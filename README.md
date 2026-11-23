@@ -12,6 +12,31 @@
 
 ---
 
+### ⭐ Featured work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [📈 Analytical Investor Toolkit](https://github.com/TimothyBAine/analytical-investor-toolkit)
+
+Every model on **The Analytical Investor**, as tested code you can run: portfolio optimisation, DCF valuation, beta estimation, VaR and Expected Shortfall, market-efficiency tests and cost-aware momentum backtests. 10 Year 1 modules, each with a companion notebook and CI tests.
+
+**[Code](https://github.com/TimothyBAine/analytical-investor-toolkit)** · **[Blog](https://analytical-investor.blog)**
+
+</td>
+<td width="50%" valign="top">
+
+#### [🌍 Clustering African Stocks](https://timothybaine.github.io/clustering-african-stocks/)
+
+Do African stocks group by country or by business? **Mostly by country.** 852 stocks on five exchanges (Johannesburg, Cairo, Lagos, Nairobi, Accra) with two years of daily prices, clustered by how they move together and tested for stability, out-of-sample use and portfolio value.
+
+**[Dashboard](https://timothybaine.github.io/clustering-african-stocks/)** · **[Code](https://github.com/TimothyBAine/clustering-african-stocks)**
+
+</td>
+</tr>
+</table>
+
 ### About me
 
 - 📊 **VP, Investor Relations & Data** at XENO Investment Management
@@ -21,7 +46,7 @@
 
 ### 🛠️ Currently building
 
-- **[analytical-investor-toolkit](https://github.com/TimothyBAine/analytical-investor-toolkit)**: the Year 1 models are done (beta, efficient frontier, DCF, VaR and Expected Shortfall, momentum backtests, market-efficiency tests). Year 2 modules land monthly.
+- **analytical-investor-toolkit**: Year 2 modules (fixed income, macro, derivatives and more) land monthly.
 - **Customer analytics pipeline** *(private)*: turns raw client-system exports into validated working tables, an interactive dashboard and a summary workbook, all rebuilt with a single command.
 
 ### 🔬 Research roadmap
@@ -47,11 +72,10 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white)
 
-### Featured projects
+### More projects
 
 | Project | What it does |
 |---|---|
-| [analytical-investor-toolkit](https://github.com/TimothyBAine/analytical-investor-toolkit) | Tested Python implementations of every model on The Analytical Investor, with CI |
 | [AfricaConflictData](https://github.com/TimothyBAine/AfricaConflictData) | Interactive Streamlit analysis of conflicts in Africa, 1996–2016 |
 | [InfoViz-Project](https://github.com/TimothyBAine/InfoViz-Project) | D3.js visualization of HIV/AIDS data |
 | [Analysis-of-internet-adoption](https://github.com/TimothyBAine/Analysis-of-internet-adoption) | Global internet adoption rates, with hypothesis tests |
